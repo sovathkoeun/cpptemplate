@@ -19,8 +19,9 @@ int main() {
 
     sum = addNumber(22,30);
     std:: cout << "sum : " << sum << std::endl;
-    
 
+    sum = addNumber(100,200);
+    std:: cout << "sum : " << sum << std::endl;
 
     return 0;
 }
